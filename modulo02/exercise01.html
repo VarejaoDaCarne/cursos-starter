@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button class="button">Criar novo quadrado</button>
+
+    <div id="app" >
+            <div class="box"></div>
+    </div>
+
+    <script>
+        const buttonCreate = document.querySelector('.button')
+
+        buttonCreate.onclick = function() {
+            let boxElement = document.createElement("div");
+            boxElement.style.width = '100px'
+            boxElement.style.height = '100px'
+            boxElement.style.margin = '10px'
+            boxElement.style.backgroundColor = '#f00' 
+        
+            boxElement.classList.add('box')
+            document.body.appendChild(boxElement)
+        }
+    </script>
+</body>
+</html>
