@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <ul class="lists">
+        </ul>
+    </div>
+
+    <div id="app" >
+        <button class="button">Criar novo quadrado</button>
+        <div class="box"></div>
+    </div>
+
+    <script>
+        const buttonCreate = document.querySelector('.button')
+
+        buttonCreate.onclick = function() {
+            let boxElement = document.createElement("div")
+            boxElement.style.width = '100px'
+            boxElement.style.height = '100px'
+            boxElement.style.margin = '10px'
+            boxElement.style.backgroundColor = '#f00' 
+        
+            boxElement.classList.add('box')
+            document.body.appendChild(boxElement)
+            document.body.appendChild(boxElement).onmouseover = function() {
+                boxElement.style.backgroundColor = newColor()
+            }
+        }
+        
+        function getRandomColor() {
+            let letters = '0123456789ABCDEF'
+            let color = '#'
+
+            for(let i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)]
+            }
+
+            return color
+        }
+
+        const newColor = getRandomColor
+
+        const nomes = ['Diego', 'Gabriel', 'Lucas']
+        const lists = document.querySelector('.lists')
+        
+        for(name in nomes) {
+            let listElement = document.createElement('li')
+            listElement.classList.add('list')
+            lists.appendChild(listElement)
+            listElement.textContent = nomes[name]
+        }
+    </script>
+</body>
+</html>
