@@ -25,7 +25,7 @@ console.log(mostraUsuario(nome))
 
 //3.4
 const promise = () => {
-    return new Promise (function(resolve, reject) {
+    return new Promise((resolve, reject) => {
         return resolve()
     })
 }
