@@ -7,11 +7,19 @@
 </h3>
 
 <p align="center">
+   <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy-omnistack?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy-omnistack">
+
+   <a href="https://github.com/grioos/README-proffy-omnistack/commits/master">
+       <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy-omnistack?color=%4d0000">
+   </a>
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
+   
+  <a href="https://github.com/grioos/proffy-omnistack/stargazers">
+   <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy-omnistack?style=social">
   </a>
-  
 </p>
 
 ## :book: Sobre
