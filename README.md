@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-   <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/forks/count/grioos/cursos-starter?color=663399&style=flat-square">
+   <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/cursos-starter?color=663399&style=flat-square">
 
    <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/cursos-starter?color=6AFDEF&style=flat-square">
 
