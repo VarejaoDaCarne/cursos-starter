@@ -9,13 +9,13 @@
 <p align="center">
    <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/cursos-starter?color=663399&style=flat-square">
 
-   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/cursos-starter?color=8F8F8F&style=flat-square">
+   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/cursos-starter?color=6AFDEF&style=flat-square">
 
    <a href="https://github.com/grioos/README-cursos-starter/commits/master">
-       <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/cursos-starter?color=%4d0000">
+       <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/cursos-starter?color=91C11E&style=flat-square">
    </a>
     
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
+   <img alt="License" src="https://img.shields.io/badge/license-MIT?color=8F8F8F&style=flat-square">
    
   <a href="https://github.com/grioos/cursos-starter/stargazers">
    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/cursos-starter?style=social">
