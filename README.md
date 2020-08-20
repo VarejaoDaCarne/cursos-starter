@@ -24,10 +24,10 @@ Um curso completo de desenvolvimento web do zero.
 
 ### [Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript)
 
--   **[Introdução ao Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo01)**
--   **[Manipulando a DOM](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo02)**
--   **[App de Todo](https://github.com/grioos/cursos-starter/blob/master/javascript/modulo03-04/index.html)**
--   **[JS Assíncrono](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo03-04)**
+-   [Introdução ao Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo01)
+-   [Manipulando a DOM](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo02)
+-   [App de Todo](https://github.com/grioos/cursos-starter/blob/master/javascript/modulo03-04/index.html)
+-   [JS Assíncrono](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo03-04)
 
 - [JavascriptES6](https://github.com/grioos/cursos-starter/tree/master/javascriptes6)
 - [NodeJS](https://github.com/grioos/cursos-starter/tree/master/nodejs)
