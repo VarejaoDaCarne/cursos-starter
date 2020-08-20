@@ -7,18 +7,18 @@
 </h3>
 
 <p align="center">
-   <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy-omnistack?color=663399&style=flat-square">
+   <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/cursos-starter?color=663399&style=flat-square">
 
-   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy-omnistack">
+   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/cursos-starter?color=8F8F8F&style=flat-square"">
 
-   <a href="https://github.com/grioos/README-proffy-omnistack/commits/master">
-       <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy-omnistack?color=%4d0000">
+   <a href="https://github.com/grioos/README-cursos-starter/commits/master">
+       <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/cursos-starter?color=%4d0000">
    </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
    
-  <a href="https://github.com/grioos/proffy-omnistack/stargazers">
-   <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy-omnistack?style=social">
+  <a href="https://github.com/grioos/cursos-starter/stargazers">
+   <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/cursos-starter?style=social">
   </a>
 </p>
 
