@@ -2,9 +2,9 @@
     <img alt="Starter" src="/.github/images/starter400.jpg"  widht="200px" height="200px" />
 </h1>
 
-<h3 align="center">
+<h4 align="center">
   💻<strong>Torne-se um programador desejado</strong> no mercado com esses cursos gratuitos.
-</h3>
+</h4>
 
 <p align="center">
 
