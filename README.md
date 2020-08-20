@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Starter" src="/.github/images/starter900.png"/>
+    <img alt="Starter" src="/.github/images/starter400.png"  />
 </h1>
 
 <h3 align="center">
@@ -19,7 +19,6 @@
 
 Um curso completo de desenvolvimento web do zero.
  
----
  
 ## :open_file_folder: Cursos
 
@@ -29,7 +28,6 @@ Um curso completo de desenvolvimento web do zero.
 - [React Native](https://github.com/grioos/cursos-starter/tree/master/react-native)
 - [ReactJS](https://github.com/grioos/cursos-starter/tree/master/reactjs)
 
----
 
 ## :muscle: Como contribuir para o projeto
 
@@ -38,7 +36,6 @@ Um curso completo de desenvolvimento web do zero.
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 
----
 
 ## 📝 Licença
 
