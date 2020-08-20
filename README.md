@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-   <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy-omnistack?color=#663399&style=flat-square">
+   <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy-omnistack?color=663399&style=flat-square">
 
    <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy-omnistack">
 
