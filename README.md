@@ -2,9 +2,9 @@
     <img alt="Starter" src="/.github/images/starter400.jpg"  widht="200px" height="200px" />
 </h1>
 
-<h4 align="center">
+<h3 align="center">
   💻<strong>Torne-se um programador desejado</strong> no mercado com esses cursos gratuitos.
-</h4>
+</h3>
 
 <p align="center">
 
@@ -20,29 +20,29 @@ Um curso completo de desenvolvimento web do zero.
  
 ## :open_file_folder: Cursos
 
-### Curso de [Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript)
+#### Curso de [Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript)
 
 -   [Introdução ao Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo01)
 -   [Manipulando a DOM](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo02)
 -   [App de Todo](https://github.com/grioos/cursos-starter/blob/master/javascript/modulo03-04/index.html)
 -   [JS Assíncrono](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo03-04)
 
-### Curso de [JavascriptES6](https://github.com/grioos/cursos-starter/tree/master/javascriptes6)
+#### Curso de [JavascriptES6](https://github.com/grioos/cursos-starter/tree/master/javascriptes6)
 
 -   [Conceitos](https://github.com/grioos/cursos-starter/tree/master/javascriptes6/modulo01)
 -   [Webpack Server](https://github.com/grioos/cursos-starter/tree/master/javascriptes6/modulo02)
 -   [Async/Await](https://github.com/grioos/cursos-starter/tree/master/javascriptes6/modulo03)
 -   [Aplicação com ES6+](https://github.com/grioos/cursos-starter/tree/master/javascriptes6/aula)
 
-### Curso de [NodeJS](https://github.com/grioos/cursos-starter/tree/master/nodejs)
+#### Curso de [NodeJS](https://github.com/grioos/cursos-starter/tree/master/nodejs)
 
 -  [API](https://github.com/grioos/cursos-starter/tree/master/nodejs/aula)
 
-### Curso de [ReactJS](https://github.com/grioos/cursos-starter/tree/master/nodejs)
+#### Curso de [ReactJS](https://github.com/grioos/cursos-starter/tree/master/nodejs)
 
 - [Hunt Web](https://github.com/grioos/cursos-starter/tree/master/reactjs/huntweb)
 
-### Curso de [React Native](https://github.com/grioos/cursos-starter/tree/master/react-native)
+#### Curso de [React Native](https://github.com/grioos/cursos-starter/tree/master/react-native)
 
 - [Hunt Mobile](https://github.com/grioos/cursos-starter/tree/master/react-native/hunt)
 
