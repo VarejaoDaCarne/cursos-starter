@@ -59,6 +59,6 @@ Cursos que podem ser acessados clicando **[aqui](https://app.rocketseat.com.br/s
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE.md).
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito por Gabriel Rios 👋🏻 [Entre em contato!](https://www.linkedin.com/in/grioos/)
