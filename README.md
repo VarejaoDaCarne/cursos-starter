@@ -24,7 +24,7 @@
 
 ## :book: Sobre
 
-O **Starter** são cursos completo de desenvolvimento web do zero. Oferecidos gratuitamente pela **[Rocketseat](https://rocketseat.com.br/)**.
+📈 Starter - são cursos completo de desenvolvimento web do zero. Oferecidos gratuitamente pela **[Rocketseat](https://rocketseat.com.br/)**.
 
 Cursos que podem ser acessados clicando **[aqui](https://app.rocketseat.com.br/starter)**.
  
