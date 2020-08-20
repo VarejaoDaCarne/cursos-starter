@@ -10,7 +10,17 @@ function App() {
     return (
       <NavigationContainer>
         <Stack.Navigator>
-          <Stack.Screen name="Home" component={Main} />
+          <Stack.Screen 
+                name='JSHunt' 
+                component={Main} 
+                options={{
+                    title: 'JSHunt',
+                    headerStyle: {
+                        backgroundColor: '#DA552F'
+                    },
+                    headerTintColor: '#FFF'
+                }}
+            />
         </Stack.Navigator>
       </NavigationContainer>
     );
