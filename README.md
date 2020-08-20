@@ -15,7 +15,7 @@
        <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/cursos-starter?color=91C11E&style=flat-square">
    </a>
     
-   <img alt="License" src="https://img.shields.io/badge/license-MIT?color=8F8F8F&style=flat-square">
+   <img alt="License" src="https://img.shields.io/badge/license-MIT/?color=8F8F8F&style=flat-square">
    
   <a href="https://github.com/grioos/cursos-starter/stargazers">
    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/cursos-starter?style=social">
