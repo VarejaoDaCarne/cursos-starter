@@ -22,7 +22,7 @@ Cursos que podem ser acessados clicando **[aqui](https://app.rocketseat.com.br/s
  
 ## :open_file_folder: Cursos
 
-#### Curso de [Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript)
+### Curso de [Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript)
 
 -   [Introdução ao Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo01)
 -   [Manipulando a DOM](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo02)
