@@ -8,4 +8,4 @@
  
 ### :open_file_folder: Módulos
 
--   [API)](https://github.com/grioos/cursos-starter/tree/master/javascript/api)
+-   [API](https://github.com/grioos/cursos-starter/tree/master/javascript/api)
