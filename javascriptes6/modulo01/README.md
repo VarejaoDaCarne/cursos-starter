@@ -37,7 +37,7 @@ const usuarios = [
 ];
 ```
 
-##### 2.1 Utilizando o *map*
+#### 2.1 Utilizando o *map*
 
 Crie uma variável que contenha todas idades dos usuários: *[23, 15, 30]*
 
