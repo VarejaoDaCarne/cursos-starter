@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Starter" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"  widht="200px" height="200px" />
+    <img alt="Starter" src="https://miro.medium.com/max/638/1*PFDFHEJZiETncPczyBVJOQ.jpeg"  widht="200px" height="200px" />
 </h1>
 
 <h3 align="center">
