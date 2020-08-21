@@ -44,3 +44,12 @@ pares(32, 321);
 #### 3º exercício
 
 Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript"e retorna um booleano *true/false* caso exista ou não.
+
+```bash
+function temHabilidade(skills) { 
+// código aqui
+}
+
+var skills = ["Javascript", "ReactJS", "React Native"];
+temHabilidade(skills); // true ou false
+```
