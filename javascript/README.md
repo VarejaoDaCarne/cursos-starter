@@ -5,15 +5,10 @@
 <h3 align="center">
   💻<strong>Torne-se um programador desejado</strong> no mercado com esses cursos gratuitos.
 </h3>
-
-<p align="center">
-  <a href="#open_file_folder-módulos">Módulos</a>
-</p>
-
  
-## :open_file_folder: Módulos
+### :open_file_folder: Módulos
 
--   [Introdução ao Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo01)
--   [Manipulando a DOM](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo02)
--   [App de Todo](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo03)
--   [JS Assíncrono](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo04)
+-   [Introdução ao Javascript (modulo01)](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo01)
+-   [Manipulando a DOM (modulo02)](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo02)
+-   [App de Todo (modulo03)](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo03)
+-   [JS Assíncrono (modulo04)](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo04)
