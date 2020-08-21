@@ -2,9 +2,9 @@
     <img alt="Starter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/200px-Unofficial_JavaScript_logo_2.svg.png"  widht="200px" height="200px" />
 </h1>
 
-<h3 align="center">
+<h4 align="center">
   💻<strong>Torne-se um programador desejado</strong> no mercado com esses cursos gratuitos.
-</h3>
+</h4>
  
 ### :open_file_folder: Módulos
 
