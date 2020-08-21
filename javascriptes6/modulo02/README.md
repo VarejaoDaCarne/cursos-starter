@@ -33,4 +33,3 @@ Em seu arquivo principal importe a variável de idade e exiba a mesma em tela;
 
 ##### 1.3
 Em seu arquivo principal importe tanto a classe quanto a variável idade e renomeie a variável idade para *IdadeUsuario*.
-```
