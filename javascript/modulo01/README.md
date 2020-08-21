@@ -43,4 +43,4 @@ pares(32, 321);
 
 #### 3º exercício
 
-Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript"e retorna um booleano [i]true/false[/i] caso exista ou não.
+Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript"e retorna um booleano *true/false* caso exista ou não.
