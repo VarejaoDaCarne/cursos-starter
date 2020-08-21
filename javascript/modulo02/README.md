@@ -49,21 +49,16 @@ Preencha uma lista *ul* no HTML com os itens da seguinte forma:
 
 #### 4º exercício
 
-Escreva uma função que dado um total de anos de estudo retorna o quão experiente o usuário é:
+Seguindo o resultado do exercício anterior adicione um input em tela e um botão como a seguir:
 
 ```bash
-function experiencia(anos) { 
-    // código aqui
+<input type="text" name="nome">
+<button onClick="adicionar()">Adicionar</button>
 }
-
-var anosEstudo = 7;
-experiencia(anosEstudo);
-
-// De 0-1 ano: Iniciante
-// De 1-3 anos: Intermediário
-// De 3-6 anos: Avançado
-// De 7 acima: Jedi Master
 ```
+
+Ao clicar no botão, a função *adicionar()* deve ser disparada adicionando um novo item a lista de
+nomes baseado no nome preenchido no input e renderizando o novo item em tela juntos aosdemais itens anteriores. Além disso, o conteúdo do input deve ser apagado após o clique.
 
 #### 5º exercício
 
