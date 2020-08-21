@@ -96,4 +96,4 @@ O Diego possui as habilidades: Javascript, ReactJS, Redux
 O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
 ```
 
-Dica: *Para percorrer um vetor você deve utilizar a sintaxe (for...of)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for...of] e para unir valores de um arraycom um separador utilize o (join)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/join]*
+Dica: *Para percorrer um vetor você deve utilizar a sintaxe [for...of](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for...of) e para unir valores de um arraycom um separador utilize o [join](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/join)*
