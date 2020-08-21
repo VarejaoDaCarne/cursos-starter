@@ -53,7 +53,7 @@ Cursos que podem ser acessados clicando **[aqui](https://app.rocketseat.com.br/s
 
 ### Curso de [NodeJS](https://github.com/grioos/cursos-starter/tree/master/nodejs)
 
--  [API](https://github.com/grioos/cursos-starter/tree/master/nodejs/aula)
+-  [API](https://github.com/grioos/cursos-starter/tree/master/nodejs/api)
 
 ### Curso de [ReactJS](https://github.com/grioos/cursos-starter/tree/master/nodejs)
 
