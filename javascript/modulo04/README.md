@@ -54,27 +54,12 @@ Depois de preencher o input e adicionar, a seguinte lista deve aparecer abaix
 
 #### 3º exercício
 
-A partir do seguinte vetor:
+A partir do resultado do exemplo anterior adicione um indicador de carregamento em tela no lugar da lista apenas enquanto a requisição estiver acontecendo:
+
 
 ```bash
-var nomes = ["Diego", "Gabriel", "Lucas"];
+<li>Carregando...</li>
 ```
+Além disso, adicione uma mensagem de erro em tela caso o usuário no Github não exista.
 
-Preencha uma lista *ul* no HTML com os itens da seguinte forma:
-
-- Diego
-- Lucas
-- Gabriel
-
-#### 4º exercício
-
-Seguindo o resultado do exercício anterior adicione um input em tela e um botão como a seguir:
-
-```bash
-<input type="text" name="nome">
-<button onClick="adicionar()">Adicionar</button>
-```
-
-Ao clicar no botão, a função *adicionar()* deve ser disparada adicionando um novo item a lista de
-nomes baseado no nome preenchido no input e renderizando o novo item em tela juntos aos demais itens anteriores. 
-Além disso, o conteúdo do input deve ser apagado após o clique.
+Dica: *Quando o usuário não existe, a requisição irá cair no '.catch' com código de erro 404.*
