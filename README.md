@@ -34,8 +34,8 @@ Cursos que podem ser acessados clicando **[aqui](https://app.rocketseat.com.br/s
 
 -   [Introdução ao Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo01)
 -   [Manipulando a DOM](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo02)
--   [App de Todo](https://github.com/grioos/cursos-starter/blob/master/javascript/modulo03-04/index.html)
--   [JS Assíncrono](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo03-04)
+-   [App de Todo](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo03)
+-   [JS Assíncrono](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo04)
 
 ### Curso de [JavascriptES6](https://github.com/grioos/cursos-starter/tree/master/javascriptes6)
 
