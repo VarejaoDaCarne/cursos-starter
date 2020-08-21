@@ -62,4 +62,4 @@ A partir do resultado do exemplo anterior adicione um indicador de carregamento 
 ```
 Além disso, adicione uma mensagem de erro em tela caso o usuário no Github não exista.
 
-Dica: *Quando o usuário não existe, a requisição irá cair no '.catch' com código de erro 404.*
+Dica: *Quando o usuário não existe, a requisição irá cair no 'catch' com código de erro 404.*
