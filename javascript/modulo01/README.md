@@ -13,7 +13,6 @@
 Crie uma função que dado o objeto a seguir:
 
 ```bash
-
 var endereco = {  
   rua: "Rua dos pinheiros",  
   numero: 1293,  
@@ -21,5 +20,4 @@ var endereco = {
   cidade: "São Paulo",  
   uf: "SP"
 };
-  
 ```
