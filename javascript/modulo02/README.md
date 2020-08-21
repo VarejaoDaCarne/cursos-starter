@@ -38,13 +38,14 @@ var newColor = getRandomColor(); // #E943F0
 A partir do seguinte vetor:
 
 ```bash
-function temHabilidade(skills) { 
-    // código aqui
-}
-
-var skills = ["Javascript", "ReactJS", "React Native"];
-temHabilidade(skills); // true ou false
+var nomes = ["Diego", "Gabriel", "Lucas"];
 ```
+
+Preencha uma lista *(<ul>)* no HTML com os itens da seguinte forma:
+
+- Diego
+- Lucas
+- Gabriel
 
 #### 4º exercício
 
