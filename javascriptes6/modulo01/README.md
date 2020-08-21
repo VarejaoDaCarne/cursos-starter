@@ -37,16 +37,76 @@ const usuarios = [
 ];
 ```
 
-#### 2.1 Utilizando o *map*
+##### 2.1 Utilizando o *map*
 
 Crie uma variável que contenha todas idades dos usuários: *[23, 15, 30]*
 
-#### 2.2 Utilizando o *filter*
+##### 2.2 Utilizando o *filter*
 
 Crie uma variáveis que tenha apenas os usuários que trabalham na Rocketseat e com mais de 18 anos: *[{ nome: 'Diego', idade: 23, empresa: 'Rocketseat' }]*
 
-#### 2.3 Utilizando o *find*
+##### 2.3 Utilizando o *find*
 
 Crie uma variável que procura por um usuário que trabalhe na empresa Google: *undefined*
 
-#### 2.4 Unindo operações
+##### 2.4 Unindo operações
+
+Multiplique a idade de todos usuários por dois e depois realize um filtro nos usuários que possuemno máximo 50 anos:
+
+```bash
+// Resultado:[  
+    { nome: 'Diego', idade: 46, empresa: 'Rocketseat' },  
+    { nome: 'Gabriel', idade: 30, empresa: 'Rocketseat' },
+]
+```
+
+#### 3º exercício
+
+Converta as funções nos seguintes trechos de código em Arrow Functions:
+
+```bash
+// 3.1
+const arr = [1, 2, 3, 4, 5];
+
+arr.map(function(item) { 
+    return item + 10;
+});
+```
+
+```bash
+// 3.2
+// Dica: Utilize uma constante pra function
+
+const usuario = { nome: 'Diego', idade: 23 };
+
+function mostraIdade(usuario) {  
+    return usuario.idade;
+}
+
+mostraIdade(usuario);
+```
+
+```bash
+// 3.3
+// Dica: Utilize uma constante pra function
+
+const nome = "Diego";
+const idade = 23;
+
+function mostraUsuario(nome = 'Diego', idade = 18) {  
+    return { nome, idade };
+}
+
+mostraUsuario(nome, idade);
+mostraUsuario(nome);
+```
+
+```bash
+// 3.4
+
+const promise = function() {  
+    return new Promise(function(resolve, reject) {
+        return resolve();  
+    })
+}
+```
