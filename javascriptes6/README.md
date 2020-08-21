@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Starter" src="https://miro.medium.com/max/638/1*PFDFHEJZiETncPczyBVJOQ.jpeg"  widht="200px" height="200px" />
+    <img alt="Starter" src="https://miro.medium.com/max/640/1*kCD_6R3UkMHkpS_YgFoU9w.jpeg"  widht="200px" height="200px" />
 </h1>
 
 <h3 align="center">
