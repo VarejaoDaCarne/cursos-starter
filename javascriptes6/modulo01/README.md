@@ -195,3 +195,28 @@ const usuario = {
 Crie uma variável *usuario2* que contenha todos os dados do usuário porém com nome *Gabriel*.
 
 Crie uma variável *usuario3* que contenha todos os dados do usuário porém com cidade *Lontras*.
+
+#### 6º exercício 
+
+Converta o seguinte trecho de código utilizando Template Literals:
+
+```bash
+const usuario = 'Diego';
+const idade = 23;
+
+console.log('O usuário ' + usuario + ' possui ' + idade + ' anos');
+```
+
+#### 7º exercício 
+
+Utilize a sintaxe curta de objetos (Object Short Syntax) no seguinte objeto:
+
+```bash
+const nome = 'Diego';
+const idade = 23;
+const usuario = {  
+    nome: nome,
+    idade: idade, 
+    cidade: 'Rio do Sul',
+};
+```
