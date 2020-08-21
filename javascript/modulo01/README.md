@@ -27,3 +27,17 @@ Retorne o seguinte conteúdo:
 ```bash
 O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" comnº 1293.
 ```
+
+
+#### 2º exercício
+
+Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
+
+```bash
+function pares(x, y) {
+// código aqui
+}
+
+pares(32, 321);
+```
+
