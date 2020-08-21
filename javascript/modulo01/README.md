@@ -8,9 +8,9 @@
  
 ### :hammer: Exercícios
 
-#### - 1º exercício
+#### 1º exercício
 
-Crie uma função que dado o objeto a seguir:
+- Crie uma função que dado o objeto a seguir:
 
 ```bash
 var endereco = {  
