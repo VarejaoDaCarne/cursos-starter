@@ -29,21 +29,27 @@ checaIdade(20)
 
 #### 2º exercício
 
-Utilizando o resultado do primeiro desafio, toda vez que o usuário passar o mouse por cima de algum quadrado troque sua cor para uma cor aleatória gerada pela função abaixo:
+Crie uma tela com um *input* que deve receber o nome de um usuário no Github. Após digitar onome do usuário e clicar no botão buscar a aplicação deve buscar pela API do Github (conformeURL abaixo) os dados de repositórios do usuário e mostrá-los em tela:
+
+URL de exemplo: https://api.github.com/users/diego3g/repos
+
+Basta alterar "diego3g" pelo nome do usuário.
 
 ```bash
-function getRandomColor() { 
-    var letters = "0123456789ABCDEF";  
-    var color = "#";  
-    
-    for (var i = 0; i < 6; i++) { 
-        color += letters[Math.floor(Math.random() * 16)]; 
-    }  
-    
-    return color;
-}
+<input type="text" name="user">
+<button onclick="">Adicionar</button>
+```
 
-var newColor = getRandomColor(); // #E943F0
+Depois de preencher o input e adicionar, a seguinte lista deve aparecer abaix
+
+```bash
+<ul>  
+    <li>repo1</li>  
+    <li>repo2</li>  
+    <li>repo3</li>  
+    <li>repo4</li>  
+    <li>repo5</li>
+</ul>
 ```
 
 #### 3º exercício
