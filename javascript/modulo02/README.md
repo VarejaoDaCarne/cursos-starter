@@ -14,28 +14,28 @@ Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de u
 vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
 aparecer na tela.
 
-Retorne o seguinte conteúdo:
-
-```bash
-O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" comnº 1293.
-```
-
-
 #### 2º exercício
 
-Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
+Utilizando o resultado do primeiro desafio, toda vez que o usuário passar o mouse por cima de algum quadrado troque sua cor para uma cor aleatória gerada pela função abaixo:
 
 ```bash
-function pares(x, y) {
-    // código aqui
+function getRandomColor() { 
+    var letters = "0123456789ABCDEF";  
+    var color = "#";  
+    
+    for (var i = 0; i < 6; i++) { 
+        color += letters[Math.floor(Math.random() * 16)]; 
+    }  
+    
+    return color;
 }
 
-pares(32, 321);
+var newColor = getRandomColor(); // #E943F0
 ```
 
 #### 3º exercício
 
-Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript"e retorna um booleano *true/false* caso exista ou não.
+A partir do seguinte vetor:
 
 ```bash
 function temHabilidade(skills) { 
