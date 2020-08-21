@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Starter" src="/.github/images/starter400.jpg"  widht="200px" height="200px" />
+    <img alt="Starter" src="https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh_400x400.jpg"  widht="200px" height="200px" />
 </h1>
 
 <h3 align="center">
