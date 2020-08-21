@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Starter" src="/.github/images/starter400.jpg"  widht="200px" height="200px" />
+    <img alt="Starter" src="https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh_400x400.jpg"  widht="200px" height="200px" />
 </h1>
 
 <h3 align="center">
@@ -22,6 +22,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#open_file_folder-cursos">Cursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#muscle-como-contribuir-para-o-projeto">Como contribuir para o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pencil-licença">Licença</a>
+</p>
+
 ## :book: Sobre
 
 O **Starter** são cursos completo de desenvolvimento web do zero. Oferecidos gratuitamente pela **[Rocketseat](https://rocketseat.com.br/)**.
@@ -34,8 +41,8 @@ Cursos que podem ser acessados clicando **[aqui](https://app.rocketseat.com.br/s
 
 -   [Introdução ao Javascript](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo01)
 -   [Manipulando a DOM](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo02)
--   [App de Todo](https://github.com/grioos/cursos-starter/blob/master/javascript/modulo03-04/index.html)
--   [JS Assíncrono](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo03-04)
+-   [App de Todo](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo03)
+-   [JS Assíncrono](https://github.com/grioos/cursos-starter/tree/master/javascript/modulo04)
 
 ### Curso de [JavascriptES6](https://github.com/grioos/cursos-starter/tree/master/javascriptes6)
 
@@ -65,7 +72,7 @@ Cursos que podem ser acessados clicando **[aqui](https://app.rocketseat.com.br/s
 4. Envie as suas alterações: `git push origin my-feature`
 
 
-## 📝 Licença
+## :pencil: Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
