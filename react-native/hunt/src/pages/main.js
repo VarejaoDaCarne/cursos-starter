@@ -1,73 +1,72 @@
-import React, { Component } from 'react'
-import { View, Text, StyleSheet } from 'react-native'
-import { FlatList, TouchableOpacity } from 'react-native-gesture-handler'
+import React, { useEffect, useState } from 'react'
+import { View, Text, StyleSheet, FlatList, TouchableOpacity } from 'react-native'
 
 import api from '../services/api'
 
-export default class Main extends Component {
-    state = {
-        productInfo: [],
-        docs: [],
-        page: 1
-    }
+export default function Main({navigation})   {
+    const [count, setCount] = useState(0)
+    const [documents, setDocuments] = useState([])
+    const [productInfo, setProductInfo] = useState('')
+    const [page, setPage] = useState(1)
 
-    componentDidMount() {
-        this.loadProducts()
-    }
 
-    loadProducts = async (page = 1) => {
+    useEffect (() => {
+        loadProducts()
+    }, [])
+
+    async function loadProducts(page = 1)  {
         const response = await api.get(`/products?page=${page}`)
+        const {docs, ...productInfo} = response.data
 
-        const { docs, ...productInfo } = response.data
-
-        this.setState({ 
-            docs: [ ...this.state.docs, ...docs ], 
-            productInfo, 
-            page 
-        })
+        setDocuments([...documents, ...docs ]), 
+        setProductInfo(productInfo), 
+        setPage(page) 
     }
 
-    loadMore = () => {
-        const { page, productInfo } = this.state
-        
+    function loadMore() {
         if(page == productInfo.pages) return
 
         const pageNumber = page + 1
 
-        this.loadProducts(pageNumber)
+        loadProducts(pageNumber)
     }
 
-    renderItem = ({ item }) => (
-        <View style={styles.productContainer}>
-            <Text style={styles.productTitle}>{item.title}</Text>
-            <Text style={styles.productDescription}>{item.description}</Text>
-
-            <TouchableOpacity 
-                style={styles.productButton} 
-                onPress={() => {
-                    this.props.navigation.navigate('Product'), { product: item }
-                }}
-            >
-                <Text style={styles.productButtonText}>Acessar</Text>
-            </TouchableOpacity>
-        </View>
-    )
-
-    render() {
+    function renderItem({ item }) {  
         return (
-            <View style={styles.container}>
-                <FlatList
-                    contentContainerStyle={styles.list}
-                    data={this.state.docs}
-                    keyExtractor={item => item._id}
-                    renderItem={this.renderItem}
-                    onEndReached={this.loadMore}
-                    onEndReachedThreshold={0.1}
-                />
+            <View style={styles.productContainer}>
+                <Text style={styles.productTitle}>{item.title}</Text>
+                <Text style={styles.productDescription}>{item.description}</Text>
+
+                <TouchableOpacity 
+                    style={styles.productButton} 
+                    onPress={() => {
+                        navigation.navigate('Product', { product: item })
+                    }}
+                >
+                    <Text style={styles.productButtonText}>Acessar</Text>
+                </TouchableOpacity>
             </View>
         )
     }
+    
+    return (
+        <View style={styles.container}>
+            <FlatList
+                contentContainerStyle={styles.list}
+                data={documents}
+                keyExtractor={item => item._id}
+                renderItem={renderItem}
+                onEndReached={loadMore}
+                onEndReachedThreshold={0.1}
+            />
+        </View>
+    )
 }
+
+Main.navigationOptions = {
+    title: 'JSHunt'
+}
+
 
 const styles = StyleSheet.create({
     container: {

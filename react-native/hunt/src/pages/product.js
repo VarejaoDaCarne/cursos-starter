@@ -2,11 +2,8 @@ import React from 'react'
 
 import { WebView } from 'react-native-webview'
 
-const Product = ({ navigation }) => {
-    console.log(navigation)
-    return (
-        <WebView source={{ uri: navigation.state.params.product.url }} />
-    )
+function Product({navigation}) {
+    return <WebView source={{uri: navigation.state.params.product.url}} />
 }
 
 Product.navigationOptions = ({ navigation }) => ({
@@ -14,3 +11,4 @@ Product.navigationOptions = ({ navigation }) => ({
 })
 
 export default Product
+
