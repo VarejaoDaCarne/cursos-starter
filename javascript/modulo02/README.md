@@ -59,29 +59,3 @@ Seguindo o resultado do exercício anterior adicione um input em tela e um botã
 
 Ao clicar no botão, a função *adicionar()* deve ser disparada adicionando um novo item a lista de
 nomes baseado no nome preenchido no input e renderizando o novo item em tela juntos aosdemais itens anteriores. Além disso, o conteúdo do input deve ser apagado após o clique.
-
-#### 5º exercício
-
-Dado o seguinte vetor de objetos:
-
-```bash
-var usuarios = [ 
-    {    
-        nome: "Diego",    
-        habilidades: ["Javascript", "ReactJS", "Redux"]  
-    },  
-    {    
-        nome: "Gabriel",    
-        habilidades: ["VueJS", "Ruby on Rails", "Elixir"]  
-    }
-];
-```
-
-Escreva uma função que produza o seguinte resultado:
-
-```bash
-O Diego possui as habilidades: Javascript, ReactJS, Redux
-O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
-```
-
-Dica: *Para percorrer um vetor você deve utilizar a sintaxe [for...of](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for...of) e para unir valores de um arraycom um separador utilize o [join](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/join)*
