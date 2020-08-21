@@ -25,49 +25,21 @@ console.log(User1.isAdmin()) // false
 console.log(Adm1.isAdmin()) // true
 ```
 
-```bash
-function checaIdade(idade) { 
-    // Retornar uma promise
-}
-
-checaIdade(20)  
-    .then(function() {    
-        console.log("Maior que 18");  
-    })  
-    .catch(function() {
-        console.log("Menor que 18");  
-    });
-```
-
 #### 2º exercício
 
-Crie uma tela com um *input* que deve receber o nome de um usuário no Github. Após digitar onome do usuário e clicar no botão buscar a aplicação deve buscar pela API do Github (conformeURL abaixo) os dados de repositórios do usuário e mostrá-los em tela:
-
-URL de exemplo: https://api.github.com/users/diego3g/repos
-
-Basta alterar "diego3g" pelo nome do usuário.
+A partir do seguinte vetor e utilizando os métodos de array (map, reduce, filter e find)
 
 ```bash
-<input type="text" name="user">
-<button onclick="">Adicionar</button>
+const usuarios = [  
+    { nome: 'Diego', idade: 23, empresa: 'Rocketseat' },  
+    { nome: 'Gabriel', idade: 15, empresa: 'Rocketseat' },  
+    { nome: 'Lucas', idade: 30, empresa: 'Facebook' },
+];
 ```
 
-Depois de preencher o input e adicionar, a seguinte lista deve aparecer abaix
+##### 2.1 Utilizando o *map*
 
-```bash
-<ul>  
-    <li>repo1</li>  
-    <li>repo2</li>  
-    <li>repo3</li>  
-    <li>repo4</li>  
-    <li>repo5</li>
-</ul>
-```
-
-#### 3º exercício
-
-A partir do resultado do exemplo anterior adicione um indicador de carregamento em tela no lugar da lista apenas enquanto a requisição estiver acontecendo:
-
+Crie uma variável que contenha todas idades dos usuários: *[23, 15, 30]*
 
 ```bash
 <li>Carregando...</li>
