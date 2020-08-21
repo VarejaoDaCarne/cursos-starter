@@ -35,7 +35,7 @@ Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
 
 ```bash
 function pares(x, y) {
-// código aqui
+    // código aqui
 }
 
 pares(32, 321);
@@ -47,7 +47,7 @@ Escreva uma função que verifique se o vetor de habilidades passado possui a ha
 
 ```bash
 function temHabilidade(skills) { 
-// código aqui
+    // código aqui
 }
 
 var skills = ["Javascript", "ReactJS", "React Native"];
@@ -60,7 +60,7 @@ Escreva uma função que dado um total de anos de estudo retorna o quão experie
 
 ```bash
 function experiencia(anos) { 
-// código aqui
+    // código aqui
 }
 
 var anosEstudo = 7;
@@ -71,3 +71,29 @@ experiencia(anosEstudo);
 // De 3-6 anos: Avançado
 // De 7 acima: Jedi Master
 ```
+
+#### 5º exercício
+
+Dado o seguinte vetor de objetos:
+
+```bash
+var usuarios = [ 
+    {    
+        nome: "Diego",    
+        habilidades: ["Javascript", "ReactJS", "Redux"]  
+    },  
+    {    
+        nome: "Gabriel",    
+        habilidades: ["VueJS", "Ruby on Rails", "Elixir"]  
+    }
+];
+```
+
+Escreva uma função que produza o seguinte resultado:
+
+```bash
+O Diego possui as habilidades: Javascript, ReactJS, Redux
+O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
+```
+
+Dica: *Para percorrer um vetor você deve utilizar a sintaxe (for...of)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for...of] e para unir valores de um arraycom um separador utilize o (join)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/join]*
