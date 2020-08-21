@@ -72,7 +72,7 @@ Cursos que podem ser acessados clicando **[aqui](https://app.rocketseat.com.br/s
 4. Envie as suas alterações: `git push origin my-feature`
 
 
-## 📝 Licença
+## :pencil: Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
