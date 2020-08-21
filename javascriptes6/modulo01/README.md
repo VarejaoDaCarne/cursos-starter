@@ -41,9 +41,10 @@ const usuarios = [
 
 Crie uma variável que contenha todas idades dos usuários: *[23, 15, 30]*
 
-```bash
-<li>Carregando...</li>
-```
-Além disso, adicione uma mensagem de erro em tela caso o usuário no Github não exista.
+##### 2.2 Utilizando o *filter*
 
-Dica: *Quando o usuário não existe, a requisição irá cair no .catch com código de erro 404.*
+Crie uma variáveis que tenha apenas os usuários que trabalham na Rocketseat e com mais de 18 anos: *[{ nome: 'Diego', idade: 23, empresa: 'Rocketseat' }]*
+
+##### 2.3 Utilizando o *find*
+
+Crie uma variável que procura por um usuário que trabalhe na empresa Google: *undefined*
