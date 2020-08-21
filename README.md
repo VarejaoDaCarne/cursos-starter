@@ -22,6 +22,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#open_file_folder-cursos">Cursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#muscle-como-contribuir-para-o-projeto">Como contribuir para o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pencil-licença">Licença</a>
+</p>
+
 ## :book: Sobre
 
 O **Starter** são cursos completo de desenvolvimento web do zero. Oferecidos gratuitamente pela **[Rocketseat](https://rocketseat.com.br/)**.
