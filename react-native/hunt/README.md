@@ -16,7 +16,7 @@
 
 ## 💻 Sobre o projeto
 
-🎯 Hunt - Um simples app que lista os conteúdos cadastrados em uma API. 
+🎯 Hunt - Um simples app que lista os conteúdos de uma API. 
 
 ---
 
