@@ -47,18 +47,24 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 
 ---
 
-## 🎨 Layout
+## 📷 Screenshots
 
-###  Página de listagem dos professores
+* Landing Page
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/study.png" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="/.github/images/landing-full.png" width="100%">
 </p>
 
-###  Página de cadastro dos professores
+* Detalhes
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/give-classes.png" width="100%">
+</p>
+
+* Paginação
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/pagination.png" width="100%">
 </p>
 
 ---
