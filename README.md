@@ -49,7 +49,7 @@ Cursos que podem ser acessados clicando **[aqui](https://app.rocketseat.com.br/s
 -   [Conceitos](https://github.com/grioos/cursos-starter/tree/master/javascriptes6/modulo01)
 -   [Webpack Server](https://github.com/grioos/cursos-starter/tree/master/javascriptes6/modulo02)
 -   [Async/Await](https://github.com/grioos/cursos-starter/tree/master/javascriptes6/modulo03)
--   [Aplicação com ES6+](https://github.com/grioos/cursos-starter/tree/master/javascriptes6/aula)
+-   [Aplicação com ES6+](https://github.com/grioos/cursos-starter/tree/master/javascriptes6/modulo04)
 
 ### Curso de [NodeJS](https://github.com/grioos/cursos-starter/tree/master/nodejs)
 
