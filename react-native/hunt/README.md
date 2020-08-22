@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-    <img alt="Logo React" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQw6m3upIge2-MkCAZwLx2x6nzRA-OGeOoupw&usqp=CAU" width="200px" height="200px />
+    <img alt="Logo React" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQw6m3upIge2-MkCAZwLx2x6nzRA-OGeOoupw&usqp=CAU"/>
 </h1>
 
 <h3 align="center">
