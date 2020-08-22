@@ -16,7 +16,7 @@
 
 ## 💻 Sobre o projeto
 
-🏹 Huntweb - Um simples site que lista os conteúdos cadastrados em uma API. 
+🏹 Huntweb - Um simples site que lista os conteúdos de uma API. 
 
 ---
 
