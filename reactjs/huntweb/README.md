@@ -16,9 +16,7 @@
 
 ## 💻 Sobre o projeto
 
-🏫 Proffy - É uma plataforma onde você pode estudar ou dar aulas. Um professor colocando seu dados, a matéria que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferências.
-
-Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rocketseat](https://rocketseat.com.br/).
+🏹 Huntweb - Um simples site que lista os conteúdos cadastrados em uma API. 
 
 ---
 
@@ -33,7 +31,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 * Detalhes
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/.github/images/give-classes.png" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="/.github/images/detail.png" width="100%">
 </p>
 
 * Paginação
@@ -50,10 +48,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🧭 Rodando a aplicação
-
 ```bash
-
 # Clone este repositório
 $ git clone https://github.com/grioos/cursos-starter/tree/master/reactjs/huntweb
 
