@@ -1,43 +1,18 @@
 
 <h1 align="center" >
-    <img alt="Logo Proffy" src="/.github/screenshots/logo.png" />
+    <img alt="Logo React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" />
 </h1>
 
 <h3 align="center">
-    📖 Sua plataforma de estudos online
+    💻 Torne-se um programador desejado no mercado com esses cursos gratuitos. 
 </h3>
 
 <p align="center">
-  <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy-discovery?color=%2304D361">
-
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy-discovery">
-
-  <a href="https://github.com/grioos/README-proffy-discovery/commits/master">
-    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy-discovery?color=%4d0000">
-  </a>
-    
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
-   <a href="https://github.com/grioos/proffy-discovery/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy-discovery?style=social">
-  </a>
-
+	<a href="#-sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ 	<a href="#-como-executar-o-projeto">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  	<a href="#-tecnologias">Tecnologias</a> 
 </p>
-
-<h1 align="center">
-    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/.github/screenshots/banner.png" />
-</h1>
-
-<h4 align="center"> 
-	🚧  Proffy 🏫 Concluído 🚧
-</h4>
-
-<p align="center">
-	<a href="#-sobre-o-projeto">Sobre</a> •
-	<a href="#-layout">Layout</a> • 
- 	<a href="#-como-executar-o-projeto">Como executar</a> • 
-  <a href="#-tecnologias">Tecnologias</a> 
-</p>
-
 
 ## 💻 Sobre o projeto
 
@@ -58,13 +33,13 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 * Detalhes
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/give-classes.png" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="/.github/images/give-classes.png" width="100%">
 </p>
 
 * Paginação
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/pagination.png" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="/.github/images/pagination.png" width="100%">
 </p>
 
 ---
