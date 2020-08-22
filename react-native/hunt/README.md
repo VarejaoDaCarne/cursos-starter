@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-    <img alt="Logo React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"/>
+    <img alt="Logo React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png"/>
 </h1>
 
 <h3 align="center">
@@ -16,7 +16,7 @@
 
 ## 💻 Sobre o projeto
 
-🎯 Hunt - Um simples site que lista os conteúdos cadastrados em uma API. 
+🎯 Hunt - Um simples app que lista os conteúdos cadastrados em uma API. 
 
 ---
 
@@ -53,9 +53,9 @@ $ cd hunt
 $ npm i
 
 # Execute a aplicação 
-$ npm start
+$ npx react-native run-android
 
-# O servidor inciará na porta:3000 - acesse http://localhost:3000/
+# Rode seu emulador do android antes de executar a aplicação
 ```
 
 ---
