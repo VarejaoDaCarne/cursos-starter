@@ -18,6 +18,7 @@
 
 🏹 Huntweb - Um simples site que lista os conteúdos cadastrados em uma API. 
 
+---
 
 ## 📷 Screenshots
 
@@ -39,6 +40,7 @@
   	<img alt="Página de cadastro de vídeo" src="/.github/images/pagination.png" width="100%">
 </p>
 
+---
 
 ## 🚀 Como executar o projeto
 
@@ -61,6 +63,8 @@ $ npm start
 
 # O servidor inciará na porta:3000 - acesse http://localhost:3000/
 ```
+
+---
 
 ## 🛠 Tecnologias
 
